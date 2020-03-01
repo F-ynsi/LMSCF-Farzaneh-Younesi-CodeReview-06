@@ -1,0 +1,49 @@
+body{
+    background-color: #eb7434;
+}
+#inhalt img{
+    width: 250px !important;
+    height: 250px;
+}
+#inhalt1 img{
+    width: 250px !important;
+    height: 250px;
+}
+#inhalt2 img{
+    width: 250px !important;
+    height: 250px;
+}
+.hideDesc, .hideRest, .hideEvent{
+    display: none;
+}
+.hideRest{
+    position: absolute;
+    width: 255px;
+    height: 395px;
+    padding: 50px;
+    background-color: rgba(198, 166, 207, 0.8);
+    font-size: 18px;
+    color:white;
+}
+.hideEvent{
+    position: absolute;
+    width: 255px;
+    height: 370px;
+    padding: 50px;
+    background-color: rgba(198, 166, 207, 0.8);
+    font-size: 18px;
+    color:white;
+}
+.hideDesc{
+    position: absolute;
+    width: 255px;
+    height: 330px;
+    padding: 50px 0 0 20px;
+    background-color: rgba(198, 166, 207, 0.8);
+    font-size: 15px;
+    color:white;
+}
+
+a{
+    color: bisque;
+}
